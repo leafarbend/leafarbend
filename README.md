@@ -44,8 +44,8 @@ Evoluir como desenvolvedor backend, criando sistemas cada vez mais completos e �
 
 ## 📫 Contato
 
-📧 Email: (coloca aqui se quiser)
-💼 LinkedIn: (coloca aqui depois)
+📧 Email: leafarbend@gmail.com
+💼 LinkedIn: www.linkedin.com/in/rafael-gouveia-345013259
 
 ---
 
