@@ -8,7 +8,10 @@
 
 ## 🧠 Tecnologias
 
-\
+-Python
+-Sql
+-Javascript
+-Automação
 
 ---
 
