@@ -31,6 +31,12 @@ Script para análise de dados de vendas, gerando insights simples.
 
 ---
 
+### 🍔 Aplicativo de Fast-food
+
+Projeto desenvolvido no Android Studio como atividade da faculdade.
+
+O aplicativo simula um sistema simples de pedidos para uma hamburgueria, permitindo escolher adicionais, definir quantidade e gerar um resumo do pedido via e-mail.
+
 ## 🎯 Objetivo
 
 Evoluir como desenvolvedor backend, criando sistemas cada vez mais completos e úteis, com foco em automação e soluções práticas.
