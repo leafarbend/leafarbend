@@ -1,3 +1,11 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+
+
 # 👋eu sou o Rafael Gouveia
 
 💻 Desenvolvedor focado em **Python e automação**
@@ -5,6 +13,11 @@
 📚 Estudando lógica de programação, interfaces e desenvolvimento web
 
 ---
+
+## 🎯 Atualmente
+- Estudando desenvolvimento mobile
+- Aprendendo Python
+- Construindo projetos para portfólio
 
 ## 🧠 Tecnologias
 
